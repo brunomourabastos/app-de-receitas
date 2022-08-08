@@ -19,6 +19,15 @@ Front-end:
 
 ## Instalando Dependências
 
+Para clonar:
+
+```
+git clone git@github.com:brunomourabastos/app-de-receitas.git
+```
+
+
+Após clonar: 
+
 > Frontend
 ```bash
 cd src/
@@ -26,7 +35,7 @@ npm install
 ``` 
 ## Executando aplicação
 
-* Para rodar o front-end:
+> Para rodar o front-end:
 
   ```
     cd src/ && npm start
