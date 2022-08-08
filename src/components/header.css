@@ -1,0 +1,28 @@
+.container-header {
+  align-content: flex-end;
+  align-items: flex-start;
+  background-color: black;
+  background-image: url('../images/background-header.jpg');
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  height: auto;
+  justify-content: space-evenly;
+  object-fit: cover;
+  width: 100vw;
+}
+
+.div-icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 230px;
+}
+
+.page-title {
+  color: black;
+
+  /* color: antiquewhite; */
+  font-family: Courier New , Courier , monospace;
+  margin-top: 20px;
+}

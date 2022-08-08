@@ -1,0 +1,28 @@
+.container-cards {
+  align-items: center;
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  height: auto;
+  justify-content: space-evenly;
+  padding-top: 15px;
+  width: 100vw;
+}
+
+.container-card-child {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+}
+
+.card-img {
+  border-radius: 15px;
+  width: 35vw;
+}
+
+.card-name {
+  color: antiquewhite;
+  display: flex;
+  font-family: Courier New , Courier , monospace;
+}
